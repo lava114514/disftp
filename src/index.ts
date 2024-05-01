@@ -177,7 +177,7 @@ class DiscordFileSystem extends FileSystem {
   }
 }
 
-const port = 21;
+const port = 2100;
 const hostname = '0.0.0.0';
 
 const ftpServer = new FtpSrv({
